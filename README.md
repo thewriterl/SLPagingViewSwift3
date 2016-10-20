@@ -1,6 +1,6 @@
 # SLPagingViewSwift
 
-A navigation bar system allowing to do a Tinder like or Twitter like. SLPagingViewSwift is a Swift port of the Objective-C of [SLPagingView](https://github.com/StefanLage/SLPagingView)
+A navigation bar system allowing to do a Tinder like or Twitter like. SLPagingViewSwift is a Swift 3 port of the Objective-C of [SLPagingView](https://github.com/StefanLage/SLPagingView)
 
 <div style="width:100%; height:450px;">
 <img src="https://raw.githubusercontent.com/StefanLage/SLPagingView/master/Demos/TinderLike/tinder.gif" align="left" height="440" width="250" style="margin-left:20px;">
@@ -9,9 +9,9 @@ A navigation bar system allowing to do a Tinder like or Twitter like. SLPagingVi
 
 ## Requirements
 
-* iOS 7.0+
+* iOS 9.0+
 * ARC
-* Swift 1.2
+* Swift 3.0
 
 ## Installation
 
